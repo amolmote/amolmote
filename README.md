@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolmote&label=Profile%20views&color=0e75b6&style=flat" alt="amolmote" /> </p>
 
-- 🌱 I’m currently learning **Go, Scala, Ansible Tower**
+- 🌱 I’m currently learning **Go, Scala, Ansible**
 
 - 📫 How to reach me **amolmote201@gmail.com**
 
