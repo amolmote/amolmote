@@ -6,11 +6,10 @@
 
 <hr>
 
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate java developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolmote&label=Profile%20views&color=0e75b6&style=flat" alt="amolmote" /> </p>
 
-- 🌱 I’m currently learning **Go, Scala, Ansible**
 
 - 📫 How to reach me **amolmote201@gmail.com**
 
